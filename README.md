@@ -12,7 +12,7 @@ A maioria dos exercícios vem de juízes online como o [Beecrowd](https://www.be
 
 ```
 maratona-programacao/
-├── 2025/
+├── 2026/
 │   ├── semana-1/
 │   ├── semana-2/
 │   └── ...
